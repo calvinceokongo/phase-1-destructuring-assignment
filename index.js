@@ -1,6 +1,17 @@
 const farmAnimals = 'cow horse sheep pig chicken';
 
+const cow = 'moo'
+const horse = 'neigh'
+const sheep = 'baa'
+const pig = 'oink'
+const chicken = 'cluck'
+console.log(cow, horse, sheep, pig, chicken); 
+
+
+
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
+
+
 
 const muppet = {
   muppetName: 'Miss Piggy',
